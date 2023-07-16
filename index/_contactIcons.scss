@@ -1,0 +1,13 @@
+.icons{
+    width: 100vw;
+    height: 200px;
+    background-color: rgba(26, 224, 236, 1);
+    text-align: center;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    padding-top: 70px;
+    .icon img{
+        margin-bottom: 10px;
+    }
+}
